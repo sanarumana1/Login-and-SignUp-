@@ -1,4 +1,4 @@
-• An application is used to manage Login Sign Up Account built with React JS.
+-- An application is used to manage Login Sign Up Account built with React JS.
 
 Instructions
 
