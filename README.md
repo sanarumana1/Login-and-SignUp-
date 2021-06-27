@@ -2,7 +2,7 @@
 
 Instructions
 
-Clone repository: git clone https://github.com/sanarumana1/Login-and-SignUp-
+Clone repository: git clone https://github.com/sanarumana1/Login-and-SignUp-/tree/master
 
 Navigate to the created folder: cd Login-and-SignUp-
 
